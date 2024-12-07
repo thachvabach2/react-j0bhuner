@@ -1,4 +1,4 @@
-# React Vite Jobhunter template
+# React Vite Jobhunter template (upadte)
 
 ### Môi trường chạy dự án: Node.js v16.20.0
 
